@@ -1,0 +1,72 @@
+ul {
+  font-size: 25px;
+  font-weight: bold;
+  // padding-right: 10px;
+}
+.pro {
+  font-style: italic;
+  text-decoration-line: underline;
+  font-size: 0.6cm;
+}
+table{
+  //  padding-left: 4cm;
+  width:80%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+// th, td{
+//   border: 2px solid black;
+//   width: 100%;
+//   table-layout: fixed;
+// }
+  
+tr {
+  vertical-align:middle;
+  text-align: center;
+  border: 3px solid black;
+  // width: 100%;
+}
+td{
+  width: 3%;
+}
+dt,dd {
+  font-size: 15px;
+  text-align: start;
+  font-weight: normal;
+}
+.textsound {
+  color: rgb(5, 52, 207);
+  text-decoration: underline;
+ 
+}
+.textdl {
+  font-size: 15px;
+  font-weight: lighter;
+  text-align: left;
+  word-spacing: 100%;
+}
+
+li {
+  padding-top: 0.5cm;
+}
+
+.town {
+  background-color: rgb(117, 158, 158);
+  // padding-bottom: 0.2cm;
+}
+.home {
+  background-color: rgb(134, 150, 172);
+  // padding-bottom: 0.2cm;
+}
+.family {
+  background-color: rgb(207, 211, 174);
+  // padding-bottom: 0.2cm;
+}
+.restaurant {
+  background-color: rgb(211, 188, 174);
+}
+.textdl{
+  margin-left: auto;
+  margin-right: auto;
+}

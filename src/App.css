@@ -1,0 +1,14 @@
+body {
+  font-family: 'Open Sans Condensed';
+  padding: 0px 60px;
+  margin: 0px auto;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+p {
+  text-align: center;
+}
+
