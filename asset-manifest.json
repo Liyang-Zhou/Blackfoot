@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/Blackfoot/static/css/main.eb20c889.chunk.css",
+    "main.js": "/Blackfoot/static/js/main.1205d944.chunk.js",
+    "main.js.map": "/Blackfoot/static/js/main.1205d944.chunk.js.map",
+    "runtime-main.js": "/Blackfoot/static/js/runtime-main.6e24cc38.js",
+    "runtime-main.js.map": "/Blackfoot/static/js/runtime-main.6e24cc38.js.map",
+    "static/js/2.b2c0d8e3.chunk.js": "/Blackfoot/static/js/2.b2c0d8e3.chunk.js",
+    "static/js/2.b2c0d8e3.chunk.js.map": "/Blackfoot/static/js/2.b2c0d8e3.chunk.js.map",
+    "static/js/3.220c49e2.chunk.js": "/Blackfoot/static/js/3.220c49e2.chunk.js",
+    "static/js/3.220c49e2.chunk.js.map": "/Blackfoot/static/js/3.220c49e2.chunk.js.map",
+    "index.html": "/Blackfoot/index.html",
+    "precache-manifest.f5beaa8120bd647153e33a448793e94d.js": "/Blackfoot/precache-manifest.f5beaa8120bd647153e33a448793e94d.js",
+    "service-worker.js": "/Blackfoot/service-worker.js",
+    "static/css/main.eb20c889.chunk.css.map": "/Blackfoot/static/css/main.eb20c889.chunk.css.map",
+    "static/js/2.b2c0d8e3.chunk.js.LICENSE.txt": "/Blackfoot/static/js/2.b2c0d8e3.chunk.js.LICENSE.txt",
+    "static/js/3.220c49e2.chunk.js.LICENSE.txt": "/Blackfoot/static/js/3.220c49e2.chunk.js.LICENSE.txt",
+    "static/media/apples.wav": "/Blackfoot/static/media/apples.72f4cdee.wav",
+    "static/media/bathroom.wav": "/Blackfoot/static/media/bathroom.6da13ad7.wav",
+    "static/media/chatbot.png": "/Blackfoot/static/media/chatbot.477b80d7.png",
+    "static/media/cinema.wav": "/Blackfoot/static/media/cinema.ab1077cb.wav",
+    "static/media/fish.wav": "/Blackfoot/static/media/fish.6749e379.wav",
+    "static/media/hello friend.wav": "/Blackfoot/static/media/hello friend.c5f20e0f.wav",
+    "static/media/hello.wav": "/Blackfoot/static/media/hello.95f0e7ff.wav",
+    "static/media/how are you_.wav": "/Blackfoot/static/media/how are you_.06fffe15.wav",
+    "static/media/i will eat.wav": "/Blackfoot/static/media/i will eat.89075515.wav",
+    "static/media/kitchen.wav": "/Blackfoot/static/media/kitchen.48459a24.wav",
+    "static/media/pngwing.com.png": "/Blackfoot/static/media/pngwing.com.dbda2f90.png",
+    "static/media/store.wav": "/Blackfoot/static/media/store.53bb5b08.wav",
+    "static/media/today.wav": "/Blackfoot/static/media/today.96cd63fa.wav",
+    "static/media/water.wav": "/Blackfoot/static/media/water.26089221.wav"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6e24cc38.js",
+    "static/js/2.b2c0d8e3.chunk.js",
+    "static/css/main.eb20c889.chunk.css",
+    "static/js/main.1205d944.chunk.js"
+  ]
+}
