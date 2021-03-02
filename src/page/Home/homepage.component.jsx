@@ -17,7 +17,7 @@ const HomePage = ({ states, setStates }) => {
         className = "repl"
         title="play"
         frameBorder="0"
-        height="500px"
+        height="400px"
         width="100%"
         src={states.selectedProj}
         allow="autoplay"
