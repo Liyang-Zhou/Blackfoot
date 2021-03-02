@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Blackfoot/static/css/main.29292d28.chunk.css",
+    "main.css": "/Blackfoot/static/css/main.64841135.chunk.css",
     "main.js": "/Blackfoot/static/js/main.5302026c.chunk.js",
     "main.js.map": "/Blackfoot/static/js/main.5302026c.chunk.js.map",
     "runtime-main.js": "/Blackfoot/static/js/runtime-main.6e24cc38.js",
@@ -10,9 +10,9 @@
     "static/js/3.220c49e2.chunk.js": "/Blackfoot/static/js/3.220c49e2.chunk.js",
     "static/js/3.220c49e2.chunk.js.map": "/Blackfoot/static/js/3.220c49e2.chunk.js.map",
     "index.html": "/Blackfoot/index.html",
-    "precache-manifest.6ba02237d2136fd08667e76700b26422.js": "/Blackfoot/precache-manifest.6ba02237d2136fd08667e76700b26422.js",
+    "precache-manifest.d8c5dd7fae76e35d43817a1add1362bd.js": "/Blackfoot/precache-manifest.d8c5dd7fae76e35d43817a1add1362bd.js",
     "service-worker.js": "/Blackfoot/service-worker.js",
-    "static/css/main.29292d28.chunk.css.map": "/Blackfoot/static/css/main.29292d28.chunk.css.map",
+    "static/css/main.64841135.chunk.css.map": "/Blackfoot/static/css/main.64841135.chunk.css.map",
     "static/js/2.b2c0d8e3.chunk.js.LICENSE.txt": "/Blackfoot/static/js/2.b2c0d8e3.chunk.js.LICENSE.txt",
     "static/js/3.220c49e2.chunk.js.LICENSE.txt": "/Blackfoot/static/js/3.220c49e2.chunk.js.LICENSE.txt",
     "static/media/apples.wav": "/Blackfoot/static/media/apples.72f4cdee.wav",
@@ -33,7 +33,7 @@
   "entrypoints": [
     "static/js/runtime-main.6e24cc38.js",
     "static/js/2.b2c0d8e3.chunk.js",
-    "static/css/main.29292d28.chunk.css",
+    "static/css/main.64841135.chunk.css",
     "static/js/main.5302026c.chunk.js"
   ]
 }
