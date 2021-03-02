@@ -56,7 +56,7 @@ const styles = theme => createStyles ({
   tagline: {
     display: "inline-block",
     // marginLeft: 20,
-	fontSize: 45,
+	fontSize: 40,
 	color: "#b7657b",
 	fontFamily: "Fascinate",
     [theme.breakpoints.up("md")]: {
@@ -75,7 +75,7 @@ const styles = theme => createStyles ({
   },
   tabContainer: {
     // marginLeft: 700,
-	  paddingLeft:"8cm",
+	  paddingLeft:"9cm",
     [theme.breakpoints.down("sm")]: {
       display: "none",
     }
@@ -138,7 +138,7 @@ class Topbar extends Component {
               <div className={classes.inline}>
                 <Typography variant="h6" color="inherit" noWrap>
                   <Link to="/" className={classes.link}>
-                    <img width={60} height={60} src={logo} alt="" />
+                    <img width={55} height={55} src={logo} alt="" />
                     <span className={classes.tagline}>Blackfoot</span>
                   </Link>
                 </Typography>
