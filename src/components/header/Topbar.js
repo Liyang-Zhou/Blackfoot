@@ -75,16 +75,18 @@ const styles = theme => createStyles ({
   },
   tabContainer: {
     // marginLeft: 700,
-	paddingLeft:"2cm",
+	paddingLeft:"10cm",
     [theme.breakpoints.down("sm")]: {
       display: "none",
     }
   },
   tabItem: {
-    paddingTop: 20,
+    paddingTop: 50,
     paddingBottom: 20,
     minWidth: "auto",
-	  fontSize:10,
+	paddingLeft: 20,
+	paddingRight: 20,
+	fontSize:"0.3cm",
   }
 });
 
