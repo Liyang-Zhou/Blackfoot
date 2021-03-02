@@ -21,7 +21,7 @@ const logo = require("./chatbot.png");
 
 const styles = theme => createStyles ({
   appBar: {
-	marginTop: 20,
+	marginTop: 15,
     position: "relative",
     boxShadow: "none",
     borderBottom: `1px solid grey["100"]}`,
@@ -75,18 +75,18 @@ const styles = theme => createStyles ({
   },
   tabContainer: {
     // marginLeft: 700,
-	paddingLeft:"10cm",
+	  paddingLeft:"8cm",
     [theme.breakpoints.down("sm")]: {
       display: "none",
     }
   },
   tabItem: {
     paddingTop: 50,
-    paddingBottom: 20,
+    paddingBottom: 10,
     minWidth: "auto",
-	paddingLeft: 50,
-	paddingRight: 50,
-	fontSize:"0.3cm",
+	paddingLeft: 30,
+	paddingRight: 30,
+	fontSize:25,
   }
 });
 
