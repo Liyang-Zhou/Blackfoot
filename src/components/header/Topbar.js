@@ -82,11 +82,11 @@ const styles = theme => createStyles ({
   },
   tabItem: {
     paddingTop: 50,
-    paddingBottom: 10,
+    paddingBottom: 5,
     minWidth: "auto",
 	paddingLeft: 30,
 	paddingRight: 30,
-	fontSize:25,
+	fontSize:20,
   }
 });
 
