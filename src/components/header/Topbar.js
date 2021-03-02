@@ -74,7 +74,7 @@ const styles = theme => createStyles ({
   },
   tabContainer: {
     // marginLeft: 700,
-	  paddingLeft:"10cm",
+	  paddingLeft:"12cm",
     [theme.breakpoints.down("sm")]: {
       display: "none",
     }
