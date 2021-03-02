@@ -86,7 +86,7 @@ const styles = theme => createStyles ({
     minWidth: "auto",
 	paddingLeft: 30,
 	paddingRight: 30,
-	fontSize:35,
+	fontSize:25,
   }
 });
 
