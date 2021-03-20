@@ -1,3 +1,8 @@
+/* A showcase website for Blackfoot language
+* Author: Liyang Zhou
+* Email: lza132@sfu.ca
+*/
+
 import React from 'react';
 import useSound from 'use-sound';
 import './pronouce.styles.scss';

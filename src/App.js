@@ -1,10 +1,14 @@
+/* A showcase website for Blackfoot language
+* Author: Liyang Zhou
+* Email: lza132@sfu.ca
+*/
+
 import React from 'react';
 import { BrowserRouter, Switch, Route } from 'react-router-dom';
 import CollectionPage from './page/Collection/collection.component.jsx';
 import HomePage from './page/Home/homepage.component.jsx';
 // import Header from './components/header/header.component.jsx';
 import ContactPage from './page/Contact/contact.component.jsx';
-import PronouncePage from './page/Pronounce/pronounce.component.jsx';
 import './App.css';
 import Topbar from './components/header/Topbar';
 
@@ -22,7 +26,6 @@ function App() {
         <Route exact path="/" component={() => <HomePage states={states} setStates={setStates} />} />
         <Route exact path="/collection" component={() => <CollectionPage states={states} setStates={setStates}/>} />
         <Route path="/contact" component={ContactPage} />
-        <Route path="/pronounce" component={PronouncePage} />
       </Switch>
       </BrowserRouter>
 

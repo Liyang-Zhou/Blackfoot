@@ -1,9 +1,11 @@
+/* A showcase website for Blackfoot language
+* Author: Liyang Zhou
+* Email: lza132@sfu.ca
+*/
+
 import React from 'react';
-
 import COLLECTION_DATA from './collection.data.js';
-
 import './collectionpage.styles.scss';
-
 import CollectionPreview from '../../components/collection-preview/collection-preview';
 
 class CollectionPage extends React.Component {

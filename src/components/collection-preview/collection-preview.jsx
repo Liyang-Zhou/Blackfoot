@@ -1,3 +1,8 @@
+/* A showcase website for Blackfoot language
+* Author: Liyang Zhou
+* Email: lza132@sfu.ca
+*/
+
 import React from 'react';
 import CollectionItem from '../collection-item/collection-item.component';
 import './collection-preview.styles.scss';

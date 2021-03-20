@@ -1,6 +1,10 @@
+/* A showcase website for Blackfoot language
+* Author: Liyang Zhou
+* Email: lza132@sfu.ca
+*/
+
 import React from 'react';
 import { useHistory } from "react-router-dom";
-
 import './collection-item.styles.scss';
 
 const CollectionItem = ({ id, states, setStates, name, imageUrl, projectUrl }) => {

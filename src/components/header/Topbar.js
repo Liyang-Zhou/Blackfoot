@@ -1,3 +1,8 @@
+/* A showcase website for Blackfoot language
+* Author: Liyang Zhou
+* Email: lza132@sfu.ca
+*/
+
 import React, { Component } from "react";
 import {withStyles, createStyles} from "@material-ui/core/styles";
 import { Link, withRouter } from "react-router-dom";
@@ -73,8 +78,10 @@ const styles = theme => createStyles ({
     float: "right",
   },
   tabContainer: {
+    marginLeft: "auto",
+    marginRight: 0,
     // marginLeft: 700,
-	  paddingLeft:"11.5cm",
+	  // paddingLeft:"11.5cm",
     [theme.breakpoints.down("sm")]: {
       display: "none",
     }
@@ -118,11 +125,8 @@ class Topbar extends Component {
     if (this.props.currentPath === "/collections") {
       return 1;
     }
-    if (this.props.currentPath === "/pronounce") {
-      return 2;
-    }
     if (this.props.currentPath === "/contact") {
-      return 3;
+      return 2;
     }
   };
 

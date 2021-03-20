@@ -11,9 +11,6 @@ const Header = () => (
       <Link className="option" to="/">
         CHATBOT
       </Link>
-      <Link className="option" to="/pronounce">
-        PRONOUNCE
-      </Link>
       <Link className="option" to="/collection">
         COLLECTIONS
       </Link>

@@ -1,3 +1,8 @@
+/* A showcase website for Blackfoot language
+* Author: Liyang Zhou
+* Email: lza132@sfu.ca
+*/
+
 const Menu = [
 	{
 		label: "Chatbot",
@@ -7,10 +12,6 @@ const Menu = [
 	{
 		label: "Collections",
 		pathname: "/collection",
-	},
-	{
-		label: "Pronounce",
-		pathname: "/pronounce",
 	},
 	{
 		label: "Contact",
